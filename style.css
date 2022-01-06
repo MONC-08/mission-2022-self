@@ -47,8 +47,8 @@ section{
     text-align:center;
 }
 .single-unit{
-    width: 20%;
-    margin-left: 5%;
+    width: 24%;
+    margin-left: 20px;
     border-radius: 20px;
     padding: 10px 40px;
     background-color: cyan;
